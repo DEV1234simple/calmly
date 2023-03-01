@@ -1,6 +1,6 @@
 # Meditation App
 
- Meditation App is a fully responsive website, responsive for all devices, built using HTML, CSS, and JavaScript.
+ Meditation App is a fully responsive website, responsive for all devices, built using React.
 
 ## Demo
 
