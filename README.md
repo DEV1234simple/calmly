@@ -1,10 +1,10 @@
-# Simple Meditation App
+# Meditation App
 
-Simple Meditation App is a fully responsive website, responsive for all devices, built using HTML, CSS, and JavaScript.
+ Meditation App is a fully responsive website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Simple Meditation App Desktop Demo](./preview.jpeg "Desktop Demo")
+![Meditation App Desktop Demo](./preview.jpeg "Desktop Demo")
 
 
 ## Prerequisites
@@ -13,9 +13,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Simple Meditation App
+## Installing Meditation App
 
-To install **Simple Meditation App**, follow these steps:
+To install **Meditation App**, follow these steps:
 
 Linux and macOS:
 
