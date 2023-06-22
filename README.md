@@ -1,5 +1,7 @@
 # Meditation App
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2Fcalmly&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+
  Meditation App is a fully responsive website, responsive for all devices, built using React.
 
 ## Demo
