@@ -10,8 +10,8 @@ export default function Footer() {
 			<p>
 				{t('footer')}{' '}
 				<strong>
-					<a className={styles.contact} href="https://instagram.com/prakashravichandrann">
-						Prakash
+					<a className={styles.contact} href="https://ismoman.com">
+						Steam 2023
 					</a>
 				</strong>{' '}
 				| Copyright © 2023
